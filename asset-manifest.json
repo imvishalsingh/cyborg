@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cyborg/static/css/main.78cb5365.chunk.css",
-    "main.js": "/cyborg/static/js/main.3095de23.chunk.js",
-    "main.js.map": "/cyborg/static/js/main.3095de23.chunk.js.map",
+    "main.js": "/cyborg/static/js/main.14451fc4.chunk.js",
+    "main.js.map": "/cyborg/static/js/main.14451fc4.chunk.js.map",
     "runtime-main.js": "/cyborg/static/js/runtime-main.2bb10bff.js",
     "runtime-main.js.map": "/cyborg/static/js/runtime-main.2bb10bff.js.map",
-    "static/js/2.f1fedddc.chunk.js": "/cyborg/static/js/2.f1fedddc.chunk.js",
-    "static/js/2.f1fedddc.chunk.js.map": "/cyborg/static/js/2.f1fedddc.chunk.js.map",
+    "static/js/2.cc4a5203.chunk.js": "/cyborg/static/js/2.cc4a5203.chunk.js",
+    "static/js/2.cc4a5203.chunk.js.map": "/cyborg/static/js/2.cc4a5203.chunk.js.map",
     "index.html": "/cyborg/index.html",
-    "precache-manifest.2ed5470f3826e530043d6c564d8c868e.js": "/cyborg/precache-manifest.2ed5470f3826e530043d6c564d8c868e.js",
+    "precache-manifest.72f57e55c497a6b9d0b460a17b6d4977.js": "/cyborg/precache-manifest.72f57e55c497a6b9d0b460a17b6d4977.js",
     "service-worker.js": "/cyborg/service-worker.js",
     "static/css/main.78cb5365.chunk.css.map": "/cyborg/static/css/main.78cb5365.chunk.css.map",
     "static/media/loginPage.css": "/cyborg/static/media/Icons_0007_bg5.cd1011db.png",
@@ -21,8 +21,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.2bb10bff.js",
-    "static/js/2.f1fedddc.chunk.js",
+    "static/js/2.cc4a5203.chunk.js",
     "static/css/main.78cb5365.chunk.css",
-    "static/js/main.3095de23.chunk.js"
+    "static/js/main.14451fc4.chunk.js"
   ]
 }

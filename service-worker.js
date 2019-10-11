@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/cyborg/precache-manifest.2ed5470f3826e530043d6c564d8c868e.js"
+  "/cyborg/precache-manifest.72f57e55c497a6b9d0b460a17b6d4977.js"
 );
 
 self.addEventListener('message', (event) => {
