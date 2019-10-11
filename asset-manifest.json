@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/cyborg/static/css/main.78cb5365.chunk.css",
+    "main.js": "/cyborg/static/js/main.cf231b2d.chunk.js",
+    "main.js.map": "/cyborg/static/js/main.cf231b2d.chunk.js.map",
+    "runtime-main.js": "/cyborg/static/js/runtime-main.2bb10bff.js",
+    "runtime-main.js.map": "/cyborg/static/js/runtime-main.2bb10bff.js.map",
+    "static/js/2.cc4a5203.chunk.js": "/cyborg/static/js/2.cc4a5203.chunk.js",
+    "static/js/2.cc4a5203.chunk.js.map": "/cyborg/static/js/2.cc4a5203.chunk.js.map",
+    "index.html": "/cyborg/index.html",
+    "precache-manifest.af09607440f8320b27a4836fcc43a6b5.js": "/cyborg/precache-manifest.af09607440f8320b27a4836fcc43a6b5.js",
+    "service-worker.js": "/cyborg/service-worker.js",
+    "static/css/main.78cb5365.chunk.css.map": "/cyborg/static/css/main.78cb5365.chunk.css.map",
+    "static/media/loginPage.css": "/cyborg/static/media/Icons_0007_bg5.cd1011db.png",
+    "static/media/Java_logo_icon.png": "/cyborg/static/media/Java_logo_icon.4e946091.png",
+    "static/media/avatar.jpg": "/cyborg/static/media/avatar.7a6bc100.jpg",
+    "static/media/c-lang.png": "/cyborg/static/media/c-lang.db636beb.png",
+    "static/media/java-lang.png": "/cyborg/static/media/java-lang.b10dad4b.png",
+    "static/media/logo.png": "/cyborg/static/media/logo.9eb0497a.png",
+    "static/media/ppt-icon-43934.png": "/cyborg/static/media/ppt-icon-43934.8801566a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bb10bff.js",
+    "static/js/2.cc4a5203.chunk.js",
+    "static/css/main.78cb5365.chunk.css",
+    "static/js/main.cf231b2d.chunk.js"
+  ]
+}
